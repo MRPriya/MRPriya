@@ -10,7 +10,7 @@
 - 👩🏻‍🎨 Interpreting and analyzing data to draw insights 
 - 🌱 Built visualizations using R ggplot2 and Python Matplotlib
 - 🦹🏻‍♀️ Brushing up SQL by solving complex queries in HackerRank
-- 📫 How to reach me: *parekhheta2@gmail.com*
+- 📫 How to reach me: *mrpriya8@gmail.com*
 - 😄 Pronouns: her/she
 - 😎 Innate Nature : Hardworking and Progress-Focused 🎯
 
@@ -25,3 +25,6 @@
 <span><img src="https://img.icons8.com/windows/128/000000/r-project.png" height="50" width="50" /></span/>
 <span><img src="https://img.icons8.com/color/144/000000/hadoop-distributed-file-system.png" height="50" width="50 /></span/>
 <span><img src="https://img.icons8.com/color/144/000000/oracle-logo.png" height="50" width="50 /></span/>
+<span><img src="https://www.java.com/en/"height="50" width="50 /></span/>
+<span><img src="https://reactjs.org/"height="50" width="50 /></span/>
+  
