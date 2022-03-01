@@ -1,4 +1,4 @@
-<img src="https://geotg.com/large_hero_image2/" width="100%" height="250"> 
+<img src="https://www.istockphoto.com/photo/technical-financial-graph-on-technology-abstract-background-gm639664884-115428199" width="100%" height="250"> 
 <h2 align="center">Hey there, I'm Priya Ramdas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h2>
 <h3 align="center"> Seek Data & Business Insights Analyst </h3>
 <!-- <img width="300" align="left" height="320" src="images/2.png" height="175px"/> -->
