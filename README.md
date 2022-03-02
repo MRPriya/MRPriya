@@ -3,16 +3,16 @@
 <h3 align="center"> Seek Data & Business Insights Analyst </h3>
 <!-- <img width="300" align="left" height="320" src="images/2.png" height="175px"/> -->
 
-### 👩🏻‍💻 About Me
+### About Me
 
-- 👩🏻‍🏫 Pursuing Master's in Information Systems at **[California State University, Los Angeles](https://www.calstatela.edu/)**
-- 👯 Building analytical reports using data wrangling of large and complex datasets
-- 👩🏻‍🎨 Interpreting and analyzing data to draw insights 
-- 🌱 Built visualizations using R ggplot2 and Python Matplotlib
-- 🦹🏻‍♀️ Brushing up SQL by solving complex queries in HackerRank
-- 📫 How to reach me: *mrpriya8@gmail.com*
-- 😄 Pronouns: her/she
-- 😎 Innate Nature : Hardworking and Progress-Focused 🎯
+- Pursuing Master's in Information Systems at **[California State University, Los Angeles](https://www.calstatela.edu/)**
+- Building analytical reports using data wrangling of large and complex datasets
+- Interpreting and analyzing data to draw insights 
+-  Built visualizations using R ggplot2 and Python Matplotlib
+- Brushing up SQL by solving complex queries in HackerRank
+- How to reach me: *mrpriya8@gmail.com*
+- Pronouns: her/she
+- Innate Nature : Hardworking and Progress-Focused 🎯
 
 ### 👩🏻‍💻 Languages and Tools
 
